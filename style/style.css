@@ -48,6 +48,18 @@ main {
   background-color: #48556a;
 }
 
+.card-white-1 {
+  background-color: white;
+}
+
+.card-dark-blue {
+  background-color: #19202d;
+}
+
+.card-white-2 {
+  background-color: white;
+}
+
 .image {
   width: 28px;
   height: 28px;
@@ -65,6 +77,19 @@ main {
   background-image: url("../images/image-jonathan.jpg");
 }
 
+.image-3 {
+  background-image: url("../images/image-jeanette.jpg");
+}
+
+.image-4 {
+  background-image: url("../images/image-patrick.jpg");
+  border: 2px solid #a775f1;
+}
+
+.image-5 {
+  background-image: url("../images/image-kira.jpg");
+}
+
 .author {
   display: flex;
   flex-direction: row;
@@ -79,6 +104,7 @@ main {
 
 h1 {
   font-size: 0.8125rem;
+  line-height: 110%;
 }
 
 .author-card-purple {
@@ -89,8 +115,21 @@ h1 {
   color: white;
 }
 
+.author-card-white-1 {
+  color: #48556a;
+}
+
+.author-card-dark-blue {
+  color: white;
+}
+
+.author-card-white-2 {
+  color: #48556a;
+}
+
 h2 {
   font-size: 0.6875rem;
+  line-height: 110%;
 }
 
 .info-card-purple {
@@ -101,16 +140,68 @@ h2 {
   color: #a3aab4;
 }
 
+.info-card-white-1 {
+  color: #676d7e;
+}
+
+.info-card-dark-blue {
+  color: white;
+}
+
+.info-card-white-2 {
+  color: #a3aab4;
+}
+
 h3 {
   font-size: 1.25rem;
   font-weight: 600;
+  line-height: 120%;
+}
+
+.card-purple-h3 {
   color: white;
+}
+
+.card-grey-h3 {
+  color: white;
+}
+
+.card-white-1-h3 {
+  color: #48556a;
+}
+
+.card-dark-blue-h3 {
+  color: #cfcfcf;
+}
+
+.card-white-2-h3 {
+  color: #48556a;
 }
 
 p {
   font-size: 0.8125rem;
   font-weight: 500;
+  line-height: 140%;
+}
+
+.card-purple-p {
   color: #ede4ff;
+}
+
+.card-grey-p {
+  color: #e7eaee;
+}
+
+.card-white-1-p {
+  color: #676d7e;
+}
+
+.card-dark-blue-p {
+  color: #e7eaee;
+}
+
+.card-white-2-p {
+  color: #676d7e;
 }
 
 .attribution {
