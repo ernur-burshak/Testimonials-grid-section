@@ -27,13 +27,13 @@ Users should be able to:
 ### Screenshot
 
 Mobile version:
-![](../testimonials-grid-section-main/design/mobile-design.jpg)
+![](./design/mobile-design.jpg)
 
 Tablet version:
-![](../testimonials-grid-section-main/design/tablet-design.png)
+![](./design/tablet-design.png)
 
 Desktop version:
-![](../testimonials-grid-section-main/design/desktop-design.jpg)
+![](./design/desktop-design.jpg)
 
 ### Links
 
