@@ -27,9 +27,11 @@ Users should be able to:
 ### Screenshot
 
 Mobile version:
+
 ![](./design/mobile-design.jpg)
 
 Tablet version:
+
 ![](./design/tablet-design.png)
 
 Desktop version:
